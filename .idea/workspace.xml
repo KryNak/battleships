@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Statki" targetName="Statki" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb73064e-771d-4b3c-813e-81aa7d830561" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1bzFifg71pRzUwZ2ehgNx9JcK3D" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programowanie\C++\ProjektC++\Statki" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Statki" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Statki" TARGET_NAME="Statki" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Statki" RUN_TARGET_NAME="Statki">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb73064e-771d-4b3c-813e-81aa7d830561" name="Default Changelist" comment="" />
+      <created>1589627143166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589627143166</updated>
+      <workItem from="1589627149263" duration="6919000" />
+      <workItem from="1589697124692" duration="9901000" />
+      <workItem from="1589776917935" duration="421000" />
+      <workItem from="1589777388949" duration="4693000" />
+      <workItem from="1589782121056" duration="1015000" />
+      <workItem from="1590236398234" duration="6904000" />
+      <workItem from="1590471608970" duration="5307000" />
+      <workItem from="1590599910417" duration="11667000" />
+      <workItem from="1590652351362" duration="1106000" />
+      <workItem from="1590668681912" duration="1429000" />
+      <workItem from="1590670295108" duration="38000" />
+      <workItem from="1590672972952" duration="736000" />
+      <workItem from="1590690369777" duration="14029000" />
+      <workItem from="1590768170453" duration="7620000" />
+      <workItem from="1590826867467" duration="2113000" />
+      <workItem from="1591143758010" duration="3684000" />
+      <workItem from="1591195566980" duration="3935000" />
+      <workItem from="1591199930725" duration="229000" />
+      <workItem from="1591200332651" duration="519000" />
+      <workItem from="1591201009129" duration="5866000" />
+      <workItem from="1591206937385" duration="144000" />
+      <workItem from="1591207864801" duration="36000" />
+      <workItem from="1591271778145" duration="1568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

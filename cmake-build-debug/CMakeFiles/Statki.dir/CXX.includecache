@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programowanie/C++/ProjektC++/Statki/controller.cpp
+header.h
+D:/Programowanie/C++/ProjektC++/Statki/header.h
+
+D:/Programowanie/C++/ProjektC++/Statki/grid.h
+cstddef
+-
+iostream
+-
+vector
+-
+
+D:/Programowanie/C++/ProjektC++/Statki/header.h
+grid.h
+D:/Programowanie/C++/ProjektC++/Statki/grid.h
+iostream
+-
+vector
+-
+random
+-
+string
+-
+fstream
+-
+regex
+-
+
+D:/Programowanie/C++/ProjektC++/Statki/main.cpp
+header.h
+D:/Programowanie/C++/ProjektC++/Statki/header.h
+
