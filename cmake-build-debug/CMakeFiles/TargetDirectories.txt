@@ -1,3 +1,0 @@
-D:/Programowanie/C++/ProjektC++/Statki/cmake-build-debug/CMakeFiles/Statki.dir
-D:/Programowanie/C++/ProjektC++/Statki/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Programowanie/C++/ProjektC++/Statki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
